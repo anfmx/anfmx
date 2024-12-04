@@ -12,7 +12,13 @@
 
 <br clear="both">
 
-<h4 align="left">I'm Anfmx, a beginner front-end developer. My main goal is to become a full-stack💻</h4>
+<h2 align="left">About me</h2>
+
+###
+
+<br clear="both">
+
+<h5 align="left">I'm Anfmx, a beginner front-end developer. My main goal is to become a full-stack💻<br>Since the age of 14, I have tried myself in different areas of programming such as C++ and Python. What interested me most was front-end development. I am self-taught and constantly learn something new every day🎯</h5>
 
 ###
 
@@ -23,7 +29,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
 </div>
 
 ###
@@ -57,7 +63,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anfmx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anfmx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=tokyonight&hide_border=true" height="200" alt="languages graph"  />
 </div>
 
 ###
