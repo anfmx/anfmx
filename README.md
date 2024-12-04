@@ -13,7 +13,7 @@
 
 ###
 
-<h4 align="left">I'm Anfmx, a beginner front-end developer. My main goal is to become a full-stack💻<br>Since the age of 14, I have tried myself in different areas of programming such as C++ and Python. What interested me most was front-end development. I am self-taught and constantly learn something new every day🎯<br>Since April 2024</h4>
+<h4 align="left">I'm Anfmx, a beginner front-end developer. My main goal is to become a full-stack💻<br>Since 2020, I have tried myself in different areas of programming such as C++ and Python. What interested me most was front-end development. I am self-taught and constantly learn something new every day🎯<br>Since April 2024</h4>
 
 ###
 
