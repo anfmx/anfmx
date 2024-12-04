@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img height="300" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"  />
 </div>
@@ -16,13 +14,9 @@
 
 ###
 
-<br clear="both">
-
 <h5 align="left">I'm Anfmx, a beginner front-end developer. My main goal is to become a full-stack💻<br>Since the age of 14, I have tried myself in different areas of programming such as C++ and Python. What interested me most was front-end development. I am self-taught and constantly learn something new every day🎯</h5>
 
 ###
-
-<br clear="both">
 
 <h4 align="left">Currenty learning:</h4>
 
@@ -33,8 +27,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h4 align="left">Already studied and used:</h4>
 
@@ -59,8 +51,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anfmx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=tokyonight&hide_border=true" height="200" alt="languages graph"  />
