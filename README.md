@@ -27,7 +27,7 @@
 
 ###
 
-<h4 align="left">Already studied and used:</h4>
+<h4 align="left">Already studied(mostly) and used:</h4>
 
 ###
 
