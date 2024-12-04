@@ -1,3 +1,4 @@
+
 <h2 align="left">Hello there✋</h2>
 
 ###
@@ -8,13 +9,11 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="left">About me</h2>
 
 ###
 
-<h4 align="left">I'm Anfmx, a beginner front-end developer. My main goal is to become a full-stack💻<br>Since the age of 14, I have tried myself in different areas of programming such as Java, C++ and Python. What interested me most was front-end development. I am self-taught and constantly learn something new every day🎯</h4>
+<h5 align="left">I'm Anfmx, a beginner front-end developer. My main goal is to become a full-stack💻<br>Since the age of 14, I have tried myself in different areas of programming such as C++ and Python. What interested me most was front-end development. I am self-taught and constantly learn something new every day🎯<br>Since April 2024</h5>
 
 ###
 
@@ -53,12 +52,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anfmx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=tokyonight&hide_border=true" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anfmx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true" height="230" alt="languages graph"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anfmx&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
