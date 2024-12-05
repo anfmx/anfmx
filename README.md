@@ -63,6 +63,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Anfmx/Anfmx/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/Anfmx/Anfmx/output/snake.svg](https://raw.githubusercontent.com/FilimonovAlexey/FilimonovAlexey/c0664da66a69bd189501da4b354af6a2ba9f5223/assets/github-snake.svg)" alt="Snake animation" />
 
 ###
