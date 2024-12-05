@@ -1,5 +1,5 @@
 
-<h1 align="left">Hello there✋</h1>
+<h2 align="left">Hello there✋</h2>
 
 ###
 
@@ -13,11 +13,11 @@
 
 ###
 
-<h4 align="left">I'm Anfmx, a beginner front-end developer. My main goal is to become a full-stack💻<br>Since 2020, I have tried myself in different areas of programming such as Java, C++ and Python. What interested me most was front-end development. I am self-taught and constantly learn something new every day🎯<br>Since April 2024</h4>
+<h5 align="left">I'm Anfmx, a beginner front-end developer. My main goal is to become a full-stack💻<br>Since the age of 14, I have tried myself in different areas of programming such as Java, C++ and Python. What interested me most was front-end development. I am self-taught and constantly learn something new every day🎯<br>Since April 2024</h5>
 
 ###
 
-<h4 align="left">Currently learning:</h4>
+<h4 align="left">Currenty learning:</h4>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<h4 align="left">Already studied(mostly) and used:</h4>
+<h4 align="left">Already studied and used:</h4>
 
 ###
 
@@ -60,5 +60,9 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anfmx&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Anfmx/Anfmx/output/snake.svg" alt="Snake animation" />
 
 ###
