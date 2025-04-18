@@ -16,4 +16,4 @@
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
 </div>
 
-###
+![snake gif](https://github.com/anfmx/Anfmx/blob/output/github-snake-dark.svg)
