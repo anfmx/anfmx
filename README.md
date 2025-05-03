@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Tech Stack:</h1>
+<h1 align="center">Tech Stack:</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" />
